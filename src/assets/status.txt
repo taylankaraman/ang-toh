@@ -1,0 +1,16 @@
+12-08-18
+-changed title of the 1st app
+-check the project files then move onto tour of heroes
+
+13-08-18
+-finished quickstart
+-finished project files
+-started tour of heroes.Downloaded finished app into tog folder
+-started along application shell section. created the tour-of-heroes app using ang cli.Run the empty app of tour-of-h 
+ and left at angular components section.
+
+14-08-18
+-Created hero component. Left at create hero class section.
+
+17-08-18
+-Added hero class. Left at edit the hero section.
