@@ -20,3 +20,4 @@
 -Add list of mock heroes.NgFor
 -Add details part for selected hero.Shows when a hero selected. NgIf
 -Add style for selected hero. Badge.
+-Left at Master/Details Component.
