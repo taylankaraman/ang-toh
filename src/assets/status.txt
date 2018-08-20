@@ -17,3 +17,6 @@
 
 20-08-18
 -Added input box to edit hero name. Added two way binding using ngmodel syntax to hero name property.
+-Add list of mock heroes.NgFor
+-Add details part for selected hero.Shows when a hero selected. NgIf
+-Add style for selected hero. Badge.
