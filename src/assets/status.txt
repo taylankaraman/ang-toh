@@ -21,3 +21,8 @@
 -Add details part for selected hero.Shows when a hero selected. NgIf
 -Add style for selected hero. Badge.
 -Left at Master/Details Component.
+
+21-08-18
+-Added hero details component. Separated detail bit from hero component.
+-Added input variable, one way binding to hero detail.
+-Left at services section.
