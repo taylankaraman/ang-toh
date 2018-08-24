@@ -31,3 +31,11 @@
 -Created hero service. Still serves mock heroes.Works synchronously.
 -Add observable data. Changed heroservice to return observable.
 -Changed hero component to subscribe to observable array of heroes.Works Asynchronously.
+
+24-08-18
+-Added a simple diagram.
+-Added message component
+-Added message service
+-Injected message service into hero service.
+-Hero service adds message to msg service when heroes are fetched.
+-Message component displays all messages.
