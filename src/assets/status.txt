@@ -39,3 +39,4 @@
 -Injected message service into hero service.
 -Hero service adds message to msg service when heroes are fetched.
 -Message component displays all messages.
+-Left at routing.
