@@ -40,3 +40,12 @@
 -Hero service adds message to msg service when heroes are fetched.
 -Message component displays all messages.
 -Left at routing.
+
+27-08-18
+-Add app routing module.
+-Initialised module with routes.
+-Add router outlet directiove in template.
+-Add dashboard view, route.
+-Add default route to dashboard. 
+-Add heroes and dashboard links to root component, appcomponent.
+-Left @Navigating to hero details.
