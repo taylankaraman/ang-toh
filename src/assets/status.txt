@@ -49,3 +49,11 @@
 -Add default route to dashboard. 
 -Add heroes and dashboard links to root component, appcomponent.
 -Left @Navigating to hero details.
+
+31-08-18
+-Finished Routing section.
+-Separated herodetails component to a routed parameterised Separated 
+ view using hero service.
+-Configured the router in an AppRoutingModule
+-Check end of section notes. Go through code again.
+-Left at http section.

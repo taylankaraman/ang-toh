@@ -2,7 +2,8 @@
 import { BrowserModule }    from '@angular/platform-browser';
 import { NgModule }         from '@angular/core';
 import { FormsModule }      from '@angular/forms';  // NgModel lives here
-import { AppRoutingModule } from './/app-routing.module';
+
+import { AppRoutingModule } from './app-routing.module';
 
 // Components
 import { AppComponent }         from './app.component';
@@ -13,13 +14,6 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    HeroesComponent,
-    HeroDetailComponent,
-    MessagesComponent,
-    DashboardComponent
-  ],
   imports: [  
     // This list of modules are those that export components, directives, or pipes that the component templates in this module reference. 
     // A component template can reference another component, directive, or pipe when the referenced class is declared in this module or 
@@ -27,6 +21,13 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     BrowserModule, 
     FormsModule,
     AppRoutingModule
+  ],
+  declarations: [
+    AppComponent,
+    HeroesComponent,
+    HeroDetailComponent,
+    MessagesComponent,
+    DashboardComponent
   ],
   providers: [
     // no need to place any providers due to the `providedIn` flag...
